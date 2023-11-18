@@ -1,0 +1,52 @@
+{
+  "cars": [
+    {
+      "vehicle_number": "ВС9090ВС",
+      "brand": "MIYSUBISHI",
+      "model": "L200",
+      "year": 2009,
+      "cost": 15000,
+      "state": "на ходу",
+      "mileage": 908765,
+      "engine_capacity": "2.5",
+      "img": "https://th.bing.com/th/id/OIP.8-zTkla7TMtH1Bg4BUGyuQHaFY?rs=1&pid=ImgDetMain",
+      "id": 1
+    },
+    {
+      "vehicle_number": "ВС9808ОІ",
+      "brand": "ЗИЛ",
+      "model": "131",
+      "year": 1981,
+      "cost": 10000,
+      "state": "НА ХОДУ",
+      "mileage": 91233,
+      "engine_capacity": "4.0",
+      "img": "https://th.bing.com/th/id/R.9749a24e1d4c6803223abc443c00bae1?rik=dFZwNzMA69ykZg&pid=ImgRaw&r=0",
+      "id": 3
+    },
+    {
+      "vehicle_number": "ВС9049ОІ",
+      "brand": "VOLKSWAGEN",
+      "model": "SHARAN",
+      "year": 2001,
+      "cost": 6000,
+      "state": "Попробуй догнати ",
+      "mileage": 328000,
+      "engine_capacity": "1.9 TDI",
+      "img": "https://vand.ro/media/anunturi/8/456204-vand-volkswagen-sharan-2001-diesel.jpg",
+      "id": 4
+    },
+    {
+      "vehicle_number": "ВС0990ВС",
+      "brand": "КРАЗ",
+      "model": "6322",
+      "year": 2016,
+      "cost": 1000000,
+      "state": "На ходу ",
+      "mileage": 12390,
+      "img": "https://th.bing.com/th/id/R.92df66826a7269f1e901bdea9975cf32?rik=2LEG6vzToRlxRA&riu=http%3a%2f%2fall-auto.org%2fwp-content%2fuploads%2f2017%2f05%2fKrAZ-6322-9.jpg&ehk=KVatkrUWfKgGlw9bekwN%2fBjEyim9JlQHL8HEXDx4Dr8%3d&risl=&pid=ImgRaw&r=0",
+      "engine_capacity": "4.4",
+      "id": 5
+    }
+  ]
+}
